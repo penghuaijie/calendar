@@ -8,4 +8,14 @@
 
 ## Getting Started
 
+![Image text](https://github.com/penghuaijie/calendar/blob/master/image/video.gif)
+
+![Image text](https://github.com/penghuaijie/calendar/blob/master/image/normal.png)  
+
+![Image text](https://github.com/penghuaijie/calendar/blob/master/image/select.png)
+
+
+
+
+
 
